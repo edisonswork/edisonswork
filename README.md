@@ -8,11 +8,11 @@ After a few years working and interning at multiple organizations, I can confide
 
 **Languages & Querying**
 ![Python](https://shields.io)
-![R](https://shields.io)
-![SQL](https://shields.io)
+#![R](https://shields.io)
+#![SQL](https://shields.io)
 
 **Business Intelligence & Visualization**
-![Power BI](https://shields.io)
+#![Power BI](https://shields.io)
 
 
 
