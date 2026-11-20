@@ -1,16 +1,22 @@
 ## Hi there 👋
+I am currently a Lead Care Navigator at ACT Care Foundation who is looking to transition to an Analyst Role. I have worked entirely in the public sector and I hope to apply these accumulated skills to new impact-driven opportunities.
 
-<!--
-**edisonswork/edisonswork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Expertise 
+After a few years working and interning at multiple organizations, I can confidently say that I am not an expert in any of the analytic tools that I use. My introduction to analytics was a bit unorthodox since it originally came from my interest in policy. What started as learning more about monetary policy and inequality morphed into learning new tools as I conducted more research. These impact-driven goals allowed me to become proficient in R, Python, and much more.
 
-Here are some ideas to get you started:
+## Tech Stack 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Querying**
+![Python](https://shields.io)
+![R](https://shields.io)
+![SQL](https://shields.io)
+
+**Business Intelligence & Visualization**
+![Power BI](https://shields.io)
+
+
+
+
+
+
+
